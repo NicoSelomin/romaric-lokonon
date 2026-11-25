@@ -1,0 +1,21 @@
+{
+  "title_fr": "Buste à la coiffe haute",
+  "title_en": "Bust with a Tall Headdress",
+  "category": "portrait",
+  "order": 240,
+  "price": 120000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image26.jpg"
+  ],
+  "alt_fr": "Buste sculpté en bois à coiffure haute texturée hérissée de pointes",
+  "alt_en": "Carved wooden bust with a tall textured hairstyle bristling with spikes",
+  "description_fr": "La coiffure s’élève bien au-dessus du visage et donne au buste sa verticalité. Le travail de texture se concentre sur ce volume haut, qui prolonge la silhouette.",
+  "description_en": "The hairstyle rises high above the face and gives the bust its verticality. The texture work is concentrated in this tall volume, which extends the silhouette.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "38 × 24 × 28 cm",
+  "dimensions_en": "38 × 24 × 28 cm"
+}

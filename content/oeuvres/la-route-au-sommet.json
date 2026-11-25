@@ -1,0 +1,22 @@
+{
+  "title_fr": "La route au sommet",
+  "title_en": "The Road on Top",
+  "category": "narrative",
+  "order": 360,
+  "price": 250000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image22.jpg",
+    "/media/image18.jpg"
+  ],
+  "alt_fr": "Sculpture polychrome : visage peint portant un véhicule chargé et des panneaux de signalisation",
+  "alt_en": "Polychrome sculpture: painted face carrying a loaded vehicle and road signs",
+  "description_fr": "Au-dessus d’un visage sculpté prend place une scène de circulation miniature, avec un véhicule et des panneaux de signalisation. La peinture fait ressortir ces détails et rend la scène lisible au sommet de la pièce.",
+  "description_en": "Above a carved face sits a miniature traffic scene, with a vehicle and road signs. The paint brings out these details and makes the scene legible at the top of the piece.",
+  "material_fr": "Bois de gmélina et peinture",
+  "material_en": "Gmelina wood and paint",
+  "dimensions_fr": "55 × 29 × 22 cm",
+  "dimensions_en": "55 × 29 × 22 cm"
+}

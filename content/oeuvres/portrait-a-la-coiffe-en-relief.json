@@ -1,0 +1,21 @@
+{
+  "title_fr": "Portrait à la coiffe en relief",
+  "title_en": "Portrait with Relief Headdress",
+  "category": "portrait",
+  "order": 160,
+  "price": 60000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image41.png"
+  ],
+  "alt_fr": "Tête sculptée de profil aux traits fins, coiffure texturée en relief",
+  "alt_en": "Carved head in profile with fine features and a textured relief hairstyle",
+  "description_fr": "Au-dessus du visage aux traits fins, la coiffure concentre le travail du relief. La taille du bois fait ressortir deux textures : le modelé doux du visage et la surface travaillée de la coiffe.",
+  "description_en": "Above the finely featured face, the hairstyle concentrates the relief work. The carving brings out two textures: the soft modelling of the face and the worked surface of the headdress.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "24 × 20 × 17 cm",
+  "dimensions_en": "24 × 20 × 17 cm"
+}

@@ -1,0 +1,21 @@
+{
+  "title_fr": "La tresse latérale",
+  "title_en": "The Side Braid",
+  "category": "portrait",
+  "order": 270,
+  "price": 80000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image21.png"
+  ],
+  "alt_fr": "Tête sculptée en bois clair avec tresse retombant sur le côté du visage",
+  "alt_en": "Light wooden head with a braid falling to the side of the face",
+  "description_fr": "Une seule tresse retombe sur le côté du visage. Cette ligne décentrée donne au portrait son asymétrie et fait de la coiffure un élément à part entière de la composition.",
+  "description_en": "A single braid falls to the side of the face. This off-centre line gives the portrait its asymmetry and makes the hairstyle a full part of the composition.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "28 × 24 × 25 cm",
+  "dimensions_en": "28 × 24 × 25 cm"
+}

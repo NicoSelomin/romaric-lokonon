@@ -1,0 +1,22 @@
+{
+  "title_fr": "Le visage aux calebasses",
+  "title_en": "The Face with Calabashes",
+  "category": "portrait",
+  "order": 200,
+  "price": 120000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image20.png",
+    "/media/image30.png"
+  ],
+  "alt_fr": "Tête sculptée en bois ornée de nombreuses petites calebasses",
+  "alt_en": "Carved wooden head adorned with many small calabashes",
+  "description_fr": "Plusieurs formes sphériques évoquant des calebasses ornent le portrait. De profil, leurs contours se détachent du visage et révèlent la profondeur de la composition.",
+  "description_en": "Several spherical forms evoking calabashes adorn the portrait. In profile, their outlines stand out from the face and reveal the depth of the composition.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "30 × 23 × 25 cm",
+  "dimensions_en": "30 × 23 × 25 cm"
+}

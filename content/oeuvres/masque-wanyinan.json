@@ -1,0 +1,23 @@
+{
+  "title_fr": "Masque Wanyinan",
+  "title_en": "Wanyinan Mask",
+  "category": "masque",
+  "order": 100,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image55.png",
+    "/media/image16.png",
+    "/media/image37.png"
+  ],
+  "alt_fr": "Masque en bois à coiffe torsadée formant un cœur au-dessus de la tête",
+  "alt_en": "Wooden mask with a twisted headdress forming a heart above the head",
+  "description_fr": "Des formes torsadées s’élèvent et se rejoignent au-dessus de la tête, en laissant une ouverture dans la coiffe.\n\nDe profil, elles forment un cœur et révèlent l’amour.",
+  "description_en": "Twisted forms rise and meet above the head, leaving an opening in the headdress.\n\nIn profile they form a heart and reveal love.",
+  "material_fr": "",
+  "material_en": "",
+  "dimensions_fr": "L 35 × l 28 × P 17 cm",
+  "dimensions_en": "L 35 × W 28 × D 17 cm"
+}

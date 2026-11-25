@@ -1,0 +1,21 @@
+{
+  "title_fr": "Le vase-cimier",
+  "title_en": "The Vase Crest",
+  "category": "portrait",
+  "order": 150,
+  "price": 35000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image44.png"
+  ],
+  "alt_fr": "Buste de profil en bois prolongé par un vase intégré au sommet du crâne",
+  "alt_en": "Wooden bust in profile extended by a vase integrated into the top of the skull",
+  "description_fr": "Vu de profil, le buste se prolonge par un vase intégré au sommet du crâne. La courbe du récipient prend le relais de celle de la tête et donne à l’ensemble l’allure d’un cimier.",
+  "description_en": "Seen in profile, the bust extends into a vase built into the top of the skull. The curve of the vessel takes over from that of the head and gives the piece the look of a crest.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "28 × 20 × 17 cm",
+  "dimensions_en": "28 × 20 × 17 cm"
+}

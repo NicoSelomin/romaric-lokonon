@@ -1,0 +1,21 @@
+{
+  "title_fr": "Buste à la grande hélice",
+  "title_en": "Bust with a Great Helix",
+  "category": "portrait",
+  "order": 300,
+  "price": 150000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image13.png"
+  ],
+  "alt_fr": "Buste sculpté couché, coiffe en hélice hérissée de pointes gravées",
+  "alt_en": "Carved bust lying down, helix headdress bristling with engraved spikes",
+  "description_fr": "Une grande hélice occupe la partie haute de ce buste de 33 cm. L’enroulement marque le contour de la coiffe et prolonge la silhouette bien au-dessus du visage.",
+  "description_en": "A large helix occupies the upper part of this 33 cm bust. The coil marks the outline of the headdress and extends the silhouette far above the face.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "33 × 25 × 26 cm",
+  "dimensions_en": "33 × 25 × 26 cm"
+}

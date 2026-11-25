@@ -1,0 +1,21 @@
+{
+  "title_fr": "La coiffe aux cercles",
+  "title_en": "The Circle Headdress",
+  "category": "portrait",
+  "order": 350,
+  "price": 50000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image60.png"
+  ],
+  "alt_fr": "Visage sculpté vu de face, coiffe arrondie ornée de cercles en relief",
+  "alt_en": "Front view of a carved face, rounded headdress adorned with relief circles",
+  "description_fr": "Des cercles en relief se répètent sur la coiffe et en suivent le volume. Le motif se découvre en parcourant la surface arrondie de la tête.",
+  "description_en": "Relief circles repeat across the headdress and follow its volume. The motif reveals itself as you travel over the rounded surface of the head.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "25 × 20 × 20 cm",
+  "dimensions_en": "25 × 20 × 20 cm"
+}

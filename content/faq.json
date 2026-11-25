@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "question_fr": "Comment passer commande ?",
+      "answer_fr": "Sur la fiche de l’œuvre, cliquez sur « Passer commande » et laissez vos coordonnées. Romaric vous recontacte pour confirmer la disponibilité, les frais de transport et le mode de paiement. Aucun paiement n’est demandé en ligne.",
+      "question_en": "How do I place an order?",
+      "answer_en": "On the work’s page, click “Place an order” and leave your details. Romaric will contact you to confirm availability, shipping costs and payment method. No online payment is required."
+    },
+    {
+      "question_fr": "Puis-je commander une sculpture sur mesure ?",
+      "answer_fr": "Oui. Décrivez votre idée — un masque, une coiffe, un portrait, une scène — avec si possible des images de référence et les dimensions souhaitées. Romaric vous propose ensuite une approche, un prix et un délai adaptés à la pièce.",
+      "question_en": "Can I commission a custom sculpture?",
+      "answer_en": "Yes. Describe your idea — a mask, a headdress, a portrait, a scene — ideally with reference images and the size you have in mind. Romaric will then suggest an approach, a price and a timeline suited to the piece."
+    },
+    {
+      "question_fr": "Les œuvres sont-elles des pièces uniques ?",
+      "answer_fr": "Oui. Chaque sculpture est taillée à la main dans le bois brut : aucune n’est moulée ni reproduite en série. Deux pièces d’une même famille de formes restent toujours différentes.",
+      "question_en": "Are the works one-of-a-kind?",
+      "answer_en": "Yes. Each sculpture is hand-carved from raw wood: none is cast or mass-produced. Two pieces from the same family of forms are always different."
+    },
+    {
+      "question_fr": "Les prix incluent-ils l’expédition ?",
+      "answer_fr": "Non. Les prix affichés s’entendent hors emballage et transport. Le coût d’envoi est calculé selon la taille de la pièce et le pays de destination, et vous est communiqué avant toute validation.",
+      "question_en": "Do prices include shipping?",
+      "answer_en": "No. Prices shown exclude packaging and shipping. The shipping cost depends on the size of the piece and the destination country, and is shared with you before anything is confirmed."
+    },
+    {
+      "question_fr": "Livrez-vous à l’étranger ?",
+      "answer_fr": "Oui, l’expédition internationale est possible. Les modalités et les documents d’exportation sont précisés au cas par cas lors de l’échange avec l’artiste.",
+      "question_en": "Do you ship internationally?",
+      "answer_en": "Yes, international shipping is available. Terms and export documents are arranged case by case with the artist."
+    },
+    {
+      "question_fr": "Dans quel bois les œuvres sont-elles sculptées ?",
+      "answer_fr": "Principalement dans le bois de gmélina (Gmelina arborea, aussi appelé mélina), apprécié pour sa noblesse et sa durabilité. Certaines pièces associent la peinture, la terre rouge ou le raphia.",
+      "question_en": "What wood are the works carved in?",
+      "answer_en": "Mainly gmelina wood (Gmelina arborea), valued for its nobility and durability. Some pieces combine paint, red earth or raffia."
+    },
+    {
+      "question_fr": "Comment entretenir une sculpture en bois ?",
+      "answer_fr": "Placez-la à l’abri du soleil direct, des sources de chaleur et de l’humidité. Un dépoussiérage régulier au pinceau doux ou au chiffon sec suffit ; évitez l’eau et les produits ménagers.",
+      "question_en": "How should I care for a wooden sculpture?",
+      "answer_en": "Keep it away from direct sunlight, heat sources and humidity. Regular dusting with a soft brush or dry cloth is enough; avoid water and household cleaners."
+    }
+  ]
+}

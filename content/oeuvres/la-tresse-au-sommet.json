@@ -1,0 +1,21 @@
+{
+  "title_fr": "La tresse au sommet",
+  "title_en": "The Crowning Braid",
+  "category": "portrait",
+  "order": 260,
+  "price": 100000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image23.png"
+  ],
+  "alt_fr": "Portrait sculpté avec tresses en relief suivant la courbe du crâne",
+  "alt_en": "Carved portrait with relief braids following the curve of the skull",
+  "description_fr": "Une tresse en relief suit la courbe du crâne. Placée au sommet, elle souligne le contour de la tête et donne à la coiffure son tracé caractéristique.",
+  "description_en": "A braid in relief follows the curve of the skull. Placed at the top, it underlines the outline of the head and gives the hairstyle its distinctive line.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "37 × 25 × 29 cm",
+  "dimensions_en": "37 × 25 × 29 cm"
+}

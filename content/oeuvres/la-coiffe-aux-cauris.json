@@ -1,0 +1,21 @@
+{
+  "title_fr": "La coiffe aux cauris",
+  "title_en": "The Cowrie Headdress",
+  "category": "portrait",
+  "order": 280,
+  "price": 80000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image27.png"
+  ],
+  "alt_fr": "Portrait sculpté de face, coiffure traditionnelle ornée de motifs de cauris",
+  "alt_en": "Front-facing carved portrait with a traditional hairstyle adorned with cowrie motifs",
+  "description_fr": "Des motifs de cauris se répètent dans le relief d’une coiffure traditionnelle. La parure est taillée dans le bois, où chaque cauri participe au dessin de la coiffe.",
+  "description_en": "Cowrie motifs repeat in the relief of a traditional hairstyle. The adornment is carved in the wood, where each cowrie contributes to the design of the headdress.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "33 × 23 × 22 cm",
+  "dimensions_en": "33 × 23 × 22 cm"
+}

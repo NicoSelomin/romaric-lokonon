@@ -1,0 +1,24 @@
+{
+  "title_fr": "Masque Espoir",
+  "title_en": "Espoir Mask",
+  "category": "masque",
+  "order": 70,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image28.jpg",
+    "/media/image45.jpg",
+    "/media/image24.jpg",
+    "/media/image8.jpg"
+  ],
+  "alt_fr": "Masque au visage blanc surmonté de deux grandes boucles noires",
+  "alt_en": "Mask with a white face crowned by two large black loops",
+  "description_fr": "Deux grandes boucles sombres s’élèvent au-dessus d’un visage clair. Le contraste des teintes souligne le dessin de la coiffe et fait ressortir les ouvertures entre ses courbes.",
+  "description_en": "Two large dark loops rise above a pale face. The contrast of tones underlines the design of the headdress and brings out the openings between its curves.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "33 × 26 × 16 cm",
+  "dimensions_en": "33 × 26 × 16 cm"
+}

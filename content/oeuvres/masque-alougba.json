@@ -1,0 +1,24 @@
+{
+  "title_fr": "Masque Alougba",
+  "title_en": "Alougba Mask",
+  "category": "masque",
+  "order": 80,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image14.jpg",
+    "/media/image6.jpg",
+    "/media/image43.jpg",
+    "/media/image3.jpg"
+  ],
+  "alt_fr": "Masque en bois clair à coiffure finement striée surmontée d’un volume ovale",
+  "alt_en": "Light wooden mask with a finely striated hairstyle topped by an oval volume",
+  "description_fr": "Un volume ovale se dresse au sommet du masque, au-dessus d’une coiffure finement striée.\n\nLes lignes de la coiffe relient cette forme arrondie au visage, où les incisions reprennent le travail du trait.",
+  "description_en": "An oval volume rises at the top of the mask, above a finely striated hairstyle.\n\nThe lines of the headdress connect this rounded form to the face, where incisions echo the work of the line.",
+  "material_fr": "",
+  "material_en": "",
+  "dimensions_fr": "31 × 26 × 17 cm",
+  "dimensions_en": "31 × 26 × 17 cm"
+}

@@ -1,0 +1,23 @@
+{
+  "title_fr": "Masque Houédanou",
+  "title_en": "Houédanou Mask",
+  "category": "masque",
+  "order": 140,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image31.jpg",
+    "/media/image54.jpg",
+    "/media/image10.jpg"
+  ],
+  "alt_fr": "Masque en bois clair à coiffe arrondie descendant près de l’oreille",
+  "alt_en": "Light wooden mask with a rounded headdress coming down near the ear",
+  "description_fr": "La coiffe arrondie descend près de l’oreille et suit la courbe de la tête.\n\nDe profil, cette ligne enveloppante contraste avec la découpe du nez, des lèvres et du menton.",
+  "description_en": "The rounded headdress comes down near the ear and follows the curve of the head.\n\nIn profile, this enveloping line contrasts with the cut of the nose, lips and chin.",
+  "material_fr": "",
+  "material_en": "",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

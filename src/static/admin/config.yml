@@ -1,0 +1,158 @@
+# Administration du site — Decap CMS
+# Chaque enregistrement crée un commit sur GitHub ; Netlify reconstruit alors le site (2 à 3 minutes).
+backend:
+  name: github
+  repo: NicoSelomin/romaric-lokonon
+  branch: main
+  base_url: https://api.netlify.com
+  commit_messages:
+    create: "Ajout : {{slug}}"
+    update: "Modification : {{slug}}"
+    delete: "Suppression : {{slug}}"
+    uploadMedia: "Photo ajoutée : {{path}}"
+    deleteMedia: "Photo supprimée : {{path}}"
+
+# Pour tester en local : `npx decap-server` puis http://localhost:4173/admin/
+local_backend: true
+
+locale: fr
+site_url: https://romaric-lokonon.netlify.app
+display_url: https://romaric-lokonon.netlify.app
+logo_url: /favicon.svg
+
+media_folder: assets-src/media
+public_folder: /media
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  # ——————————————————————————————————— Œuvres
+  - name: oeuvres
+    label: Œuvres
+    label_singular: œuvre
+    description: "Les sculptures du catalogue. Le site se met à jour 2 à 3 minutes après l’enregistrement."
+    folder: content/oeuvres
+    extension: json
+    format: json
+    create: true
+    delete: true
+    slug: "{{title_fr}}"
+    identifier_field: title_fr
+    summary: "{{title_fr}}"
+    sortable_fields: ["order", "title_fr", "price"]
+    view_filters:
+      - { label: Œuvres majeures, field: category, pattern: majeure }
+      - { label: Portraits & coiffures, field: category, pattern: portrait }
+      - { label: Œuvres narratives, field: category, pattern: narrative }
+      - { label: Masques, field: category, pattern: masque }
+      - { label: Vendues, field: sold, pattern: true }
+    editor: { preview: false }
+    fields:
+      - { label: "Titre (français)", name: title_fr, widget: string }
+      - { label: "Titre (anglais)", name: title_en, widget: string, required: false, hint: "Laisser vide pour reprendre le titre français." }
+      - label: Catégorie
+        name: category
+        widget: select
+        default: portrait
+        options:
+          - { label: Œuvres majeures, value: majeure }
+          - { label: Portraits & coiffures, value: portrait }
+          - { label: Œuvres narratives, value: narrative }
+          - { label: Masques, value: masque }
+      - label: Photos
+        name: photos
+        widget: list
+        min: 1
+        collapsed: false
+        hint: "La première photo sert de vignette. Idéalement sur fond noir, au moins 1000 px de haut."
+        field: { label: Photo, name: photo, widget: image, choose_url: false }
+      - { label: "Prix (FCFA)", name: price, widget: number, value_type: int, min: 0, required: false, hint: "Laisser vide pour afficher « Prix sur demande »." }
+      - { label: "Prix par pièce", name: price_per_piece, widget: boolean, default: false, required: false, hint: "Pour un ensemble vendu à l’unité." }
+      - { label: "Vendue", name: sold, widget: boolean, default: false, required: false, hint: "Affiche le badge « Vendue » et retire le bouton de commande." }
+      - { label: "Publiée sur le site", name: published, widget: boolean, default: true, required: false, hint: "Décocher pour masquer l’œuvre sans la supprimer." }
+      - { label: "Description (français)", name: description_fr, widget: text, hint: "Laisser une ligne vide entre deux paragraphes." }
+      - { label: "Description (anglais)", name: description_en, widget: text, required: false }
+      - { label: "Matériau (français)", name: material_fr, widget: string, default: "Bois de gmélina", required: false }
+      - { label: "Matériau (anglais)", name: material_en, widget: string, default: "Gmelina wood", required: false }
+      - { label: "Dimensions (français)", name: dimensions_fr, widget: string, required: false, hint: "Ex. : 35 × 28 × 25 cm (hauteur × largeur × profondeur)." }
+      - { label: "Dimensions (anglais)", name: dimensions_en, widget: string, required: false, hint: "Laisser vide si identique." }
+      - { label: "Description de la photo (français)", name: alt_fr, widget: string, required: false, hint: "Pour Google et les malvoyants : ce que montre la photo principale." }
+      - { label: "Description de la photo (anglais)", name: alt_en, widget: string, required: false }
+      - { label: "Ordre d’affichage", name: order, widget: number, value_type: int, default: 500, required: false, hint: "Plus le nombre est petit, plus l’œuvre apparaît tôt dans la collection." }
+
+  # ——————————————————————————————————— Pages et réglages
+  - name: pages
+    label: Pages du site
+    editor: { preview: false }
+    files:
+      - label: Accueil
+        name: accueil
+        file: content/accueil.json
+        fields:
+          - { label: "Grand titre (français)", name: hero_title_fr, widget: text, hint: "Mettre un mot entre *astérisques* pour le colorer ; un retour à la ligne est conservé." }
+          - { label: "Grand titre (anglais)", name: hero_title_en, widget: text }
+          - { label: "Texte d’introduction (français)", name: hero_lead_fr, widget: text }
+          - { label: "Texte d’introduction (anglais)", name: hero_lead_en, widget: text }
+          - { label: "Démarche — titre (français)", name: approach_title_fr, widget: string }
+          - { label: "Démarche — titre (anglais)", name: approach_title_en, widget: string }
+          - { label: "Démarche — texte (français)", name: approach_text_fr, widget: text, hint: "**gras**, *italique* ; une ligne vide entre deux paragraphes." }
+          - { label: "Démarche — texte (anglais)", name: approach_text_en, widget: text }
+          - { label: "Citation de l’artiste (français)", name: quote_fr, widget: text, required: false }
+          - { label: "Citation de l’artiste (anglais)", name: quote_en, widget: text, required: false }
+          - { label: "L’atelier — texte (français)", name: workshop_text_fr, widget: text }
+          - { label: "L’atelier — texte (anglais)", name: workshop_text_en, widget: text }
+      - label: À propos
+        name: apropos
+        file: content/a-propos.json
+        fields:
+          - { label: "Introduction (français)", name: intro_fr, widget: text }
+          - { label: "Introduction (anglais)", name: intro_en, widget: text }
+          - { label: "Biographie (français)", name: bio_fr, widget: text, hint: "« ## Titre » pour un intertitre, « > texte » pour une citation, une ligne vide entre les paragraphes." }
+          - { label: "Biographie (anglais)", name: bio_en, widget: text }
+          - { label: "Matière & savoir-faire (français)", name: craft_fr, widget: text }
+          - { label: "Matière & savoir-faire (anglais)", name: craft_en, widget: text }
+      - label: Parcours (dates clés)
+        name: parcours
+        file: content/parcours.json
+        fields:
+          - label: Étapes
+            name: items
+            widget: list
+            summary: "{{fields.year}} — {{fields.text_fr}}"
+            fields:
+              - { label: Année, name: year, widget: string }
+              - { label: "Texte (français)", name: text_fr, widget: text }
+              - { label: "Texte (anglais)", name: text_en, widget: text }
+      - label: Questions fréquentes
+        name: faq
+        file: content/faq.json
+        fields:
+          - label: Questions
+            name: items
+            widget: list
+            summary: "{{fields.question_fr}}"
+            fields:
+              - { label: "Question (français)", name: question_fr, widget: string }
+              - { label: "Réponse (français)", name: answer_fr, widget: text }
+              - { label: "Question (anglais)", name: question_en, widget: string }
+              - { label: "Réponse (anglais)", name: answer_en, widget: text }
+      - label: Coordonnées & réseaux
+        name: reglages
+        file: content/reglages.json
+        fields:
+          - { label: "Téléphone (affiché)", name: phone_display, widget: string, hint: "Ex. : +229 01 54 00 31 64" }
+          - { label: "Numéro WhatsApp", name: whatsapp, widget: string, hint: "Indicatif compris, chiffres uniquement. Ex. : 2290154003164" }
+          - { label: E-mail, name: email, widget: string }
+          - { label: Ville, name: city, widget: string }
+          - { label: Département, name: region, widget: string }
+          - label: Réseaux sociaux
+            name: social
+            widget: list
+            required: false
+            summary: "{{fields.label}}"
+            fields:
+              - { label: "Nom (Instagram, Facebook…)", name: label, widget: string }
+              - { label: Adresse, name: url, widget: string }

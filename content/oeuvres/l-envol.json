@@ -1,0 +1,21 @@
+{
+  "title_fr": "L’Envol",
+  "title_en": "Taking Flight",
+  "category": "portrait",
+  "order": 320,
+  "price": 150000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image34.jpg"
+  ],
+  "alt_fr": "Visage sculpté surmonté d’un oiseau aux ailes déployées et de formes de plumes",
+  "alt_en": "Carved face topped by a bird with outspread wings and feather-like forms",
+  "description_fr": "Au-dessus d’un visage aux traits fins, une coiffe striée porte un oiseau aux ailes déployées, entouré de formes qui évoquent des plumes et des bourgeons. Leur disposition étagée donne à la sculpture un mouvement ascendant.\n\nCette rencontre entre la figure humaine et le monde naturel suggère un élan vers la liberté et le renouveau.",
+  "description_en": "Above a finely featured face, a striated headdress carries a bird with outspread wings, surrounded by forms evoking feathers and buds. Their tiered arrangement gives the sculpture an upward movement.\n\nThis meeting between the human figure and the natural world suggests an impulse towards freedom and renewal.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "60 × 23 × 25 cm",
+  "dimensions_en": "60 × 23 × 25 cm"
+}

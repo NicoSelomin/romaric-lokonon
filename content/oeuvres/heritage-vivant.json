@@ -1,0 +1,22 @@
+{
+  "title_fr": "Héritage vivant",
+  "title_en": "Living Heritage",
+  "category": "majeure",
+  "order": 20,
+  "price": 500000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image36.jpg",
+    "/media/image46.jpg"
+  ],
+  "alt_fr": "Deux figures sculptées en bois sur un socle de terre rouge orné de raphia",
+  "alt_en": "Two carved wooden figures on a red-earth base adorned with raffia",
+  "description_fr": "Deux figures se répondent et évoquent le lien entre les générations. La terre rouge rappelle les origines, tandis que le bois porte cette mémoire et lui donne une forme nouvelle.\n\nL’héritage se transforme à mesure qu’il se transmet.",
+  "description_en": "Two figures answer each other and evoke the bond between generations. The red earth recalls origins, while the wood carries this memory and gives it a new form.\n\nHeritage transforms as it is passed on.",
+  "material_fr": "Bois, terre rouge, raphia",
+  "material_en": "Wood, red earth, raffia",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

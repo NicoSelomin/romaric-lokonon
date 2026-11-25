@@ -1,0 +1,21 @@
+{
+  "title_fr": "À deux sur la moto",
+  "title_en": "Two on a Motorbike",
+  "category": "narrative",
+  "order": 370,
+  "price": 130000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image33.png"
+  ],
+  "alt_fr": "Tête sculptée en bois surmontée de deux personnages sur une moto",
+  "alt_en": "Carved wooden head topped by two figures riding a motorbike",
+  "description_fr": "Deux personnages prennent place sur une même moto. Réunis autour du véhicule, les corps forment une scène de déplacement dont l’élan tient à la disposition des figures.",
+  "description_en": "Two figures share the same motorbike. Gathered around the vehicle, the bodies form a travelling scene whose momentum comes from the arrangement of the figures.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "35 × 20 × 20 cm",
+  "dimensions_en": "35 × 20 × 20 cm"
+}

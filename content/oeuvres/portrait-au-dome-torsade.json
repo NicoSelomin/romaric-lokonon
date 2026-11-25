@@ -1,0 +1,21 @@
+{
+  "title_fr": "Portrait au dôme torsadé",
+  "title_en": "Portrait with a Twisted Dome",
+  "category": "portrait",
+  "order": 290,
+  "price": 100000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image25.jpg"
+  ],
+  "alt_fr": "Portrait masculin sculpté surmonté d’un dôme torsadé",
+  "alt_en": "Carved male portrait topped by a twisted dome",
+  "description_fr": "Un dôme surmonte ce portrait masculin. La torsade suit la courbe du volume et donne du mouvement à une coiffure dont la forme reste ample et arrondie.",
+  "description_en": "A dome crowns this male portrait. The twist follows the curve of the volume and gives movement to a hairstyle whose form remains full and rounded.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "35 × 28 × 25 cm",
+  "dimensions_en": "35 × 28 × 25 cm"
+}

@@ -1,0 +1,21 @@
+{
+  "title_fr": "La coiffe aux pétales",
+  "title_en": "The Petal Headdress",
+  "category": "portrait",
+  "order": 190,
+  "price": 50000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image62.png"
+  ],
+  "alt_fr": "Visage scarifié en bois surmonté de pétales sculptés se rejoignant en pointe",
+  "alt_en": "Scarified wooden face topped by carved petals meeting in a point",
+  "description_fr": "Des pétales taillés dans le bois se rejoignent en pointe au-dessus d’un visage scarifié. Leurs volumes saillants répondent aux lignes fines incisées sur le visage.",
+  "description_en": "Petals carved in the wood meet in a point above a scarified face. Their projecting volumes answer the fine lines incised on the face.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "38 × 20 × 20 cm",
+  "dimensions_en": "38 × 20 × 20 cm"
+}

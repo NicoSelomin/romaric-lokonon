@@ -1,0 +1,22 @@
+{
+  "title_fr": "Masque Abigaël",
+  "title_en": "Abigaël Mask",
+  "category": "masque",
+  "order": 130,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image17.png",
+    "/media/image15.png"
+  ],
+  "alt_fr": "Masque en bois aux rainures convergeant vers un sommet fin et effilé",
+  "alt_en": "Wooden mask with grooves converging on a fine, tapered top",
+  "description_fr": "Les rainures de la coiffe convergent vers un sommet fin et allongé. Leur tracé relie le volume arrondi de la tête à cette terminaison effilée.",
+  "description_en": "The grooves of the headdress converge towards a fine, elongated top. Their lines connect the rounded volume of the head to this tapered tip.",
+  "material_fr": "",
+  "material_en": "",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

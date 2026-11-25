@@ -1,0 +1,21 @@
+{
+  "title_fr": "Le portrait à la boucle d’oreille",
+  "title_en": "Portrait with an Earring",
+  "category": "portrait",
+  "order": 230,
+  "price": 150000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image9.png"
+  ],
+  "alt_fr": "Visage de profil sculpté avec boucle d’oreille et coiffe hérissée de pointes",
+  "alt_en": "Carved face in profile with an earring and a spiked headdress",
+  "description_fr": "Une boucle d’oreille ponctue le côté du visage, sous une coiffe hérissée de pointes. À la ligne anguleuse de la coiffure répond la courbe du bijou.",
+  "description_en": "An earring punctuates the side of the face, beneath a headdress bristling with spikes. The angular line of the hairstyle is answered by the curve of the jewel.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

@@ -1,0 +1,21 @@
+{
+  "title_fr": "Portrait serein",
+  "title_en": "Serene Portrait",
+  "category": "portrait",
+  "order": 220,
+  "price": 50000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image19.png"
+  ],
+  "alt_fr": "Visage féminin sculpté aux traits paisibles, coiffe haute",
+  "alt_en": "Carved female face with peaceful features and a tall headdress",
+  "description_fr": "La coiffe dessine le contour d’un visage féminin aux traits paisibles. Le soin porté à la coiffure encadre l’expression du visage et laisse toute sa place à sa sérénité.",
+  "description_en": "The headdress traces the outline of a female face with peaceful features. The care given to the hairstyle frames the expression and leaves full room for its serenity.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

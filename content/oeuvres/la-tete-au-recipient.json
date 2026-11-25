@@ -1,0 +1,21 @@
+{
+  "title_fr": "La tête au récipient",
+  "title_en": "The Head with a Vessel",
+  "category": "portrait",
+  "order": 340,
+  "price": 120000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image35.png"
+  ],
+  "alt_fr": "Tête sculptée portant un récipient traditionnel au sommet",
+  "alt_en": "Carved head carrying a traditional vessel on top",
+  "description_fr": "Un récipient traditionnel prend place au sommet de la tête. La sculpture réunit ainsi deux formes dans une même silhouette : celle d’un visage et celle d’un objet du quotidien.",
+  "description_en": "A traditional vessel sits on top of the head. The sculpture thus combines two forms in a single silhouette: a face and an everyday object.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "env. 35 × 25 × 20 cm",
+  "dimensions_en": "approx. 35 × 25 × 20 cm"
+}

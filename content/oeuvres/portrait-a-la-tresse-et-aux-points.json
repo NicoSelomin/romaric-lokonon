@@ -1,0 +1,21 @@
+{
+  "title_fr": "Portrait à la tresse et aux points",
+  "title_en": "Portrait with Braid and Dots",
+  "category": "portrait",
+  "order": 310,
+  "price": 30000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image52.jpg"
+  ],
+  "alt_fr": "Petit portrait sculpté, coiffe texturée de points surmontée d’une tresse",
+  "alt_en": "Small carved portrait, dotted headdress topped by a braid",
+  "description_fr": "Une tresse se détache parmi les petits points sculptés de la coiffe. Le regard passe du motif répété à la ligne de la tresse, qui reste l’élément le plus lisible de la coiffure.",
+  "description_en": "A braid stands out among the small carved dots of the headdress. The eye moves from the repeated motif to the line of the braid, which remains the most legible element of the hairstyle.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "30 × 22 × 20 cm",
+  "dimensions_en": "30 × 22 × 20 cm"
+}

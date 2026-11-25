@@ -1,0 +1,21 @@
+{
+  "title_fr": "Quatre têtes tressées",
+  "title_en": "Four Braided Heads",
+  "category": "portrait",
+  "order": 210,
+  "price": 60000,
+  "price_per_piece": true,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image5.jpg"
+  ],
+  "alt_fr": "Quatre petites têtes sculptées en bois clair alignées sur un même support",
+  "alt_en": "Four small light wooden heads lined up on a single base",
+  "description_fr": "Quatre têtes partagent un même support. Le motif tressé revient d’un portrait à l’autre et donne à l’ensemble un rythme que l’on découvre en passant d’une coiffure à la suivante.",
+  "description_en": "Four heads share one base. The braided motif recurs from one portrait to the next, giving the group a rhythm you discover as you move from one hairstyle to the next.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

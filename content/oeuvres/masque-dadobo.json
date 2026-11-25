@@ -1,0 +1,21 @@
+{
+  "title_fr": "Masque Dadobo",
+  "title_en": "Dadobo Mask",
+  "category": "masque",
+  "order": 110,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image2.jpg"
+  ],
+  "alt_fr": "Masque en bois clair strié surmonté d’un poisson sculpté",
+  "alt_en": "Striated light wooden mask topped with a carved fish",
+  "description_fr": "Des stries remontent du visage jusqu’à une coiffe qui s’élargit au sommet.\n\nLa silhouette de profil révèle ce changement de volume, perceptible dans la façon dont la partie haute se projette au-dessus de la tête.",
+  "description_en": "Striations run up from the face to a headdress that widens at the top.\n\nThe profile reveals this change of volume, visible in the way the upper part projects above the head.",
+  "material_fr": "",
+  "material_en": "",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

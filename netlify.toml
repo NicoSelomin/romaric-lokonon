@@ -1,0 +1,17 @@
+# Configuration Netlify — le site est reconstruit à chaque modification (dépôt GitHub / administration Decap CMS).
+[build]
+  publish = "dist"
+  command = "node build.mjs"
+
+[build.environment]
+  NODE_VERSION = "22"
+  PYTHON_VERSION = "3.12"
+
+[build.processing.html]
+  pretty_urls = true
+
+# Les photos optimisées sont gardées en cache d'un build à l'autre
+[[plugins]]
+  package = "netlify-plugin-cache"
+  [plugins.inputs]
+    paths = [".cache/img", ".cache/media"]

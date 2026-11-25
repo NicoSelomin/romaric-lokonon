@@ -1,0 +1,23 @@
+{
+  "title_fr": "Masque Cossi",
+  "title_en": "Cossi Mask",
+  "category": "masque",
+  "order": 90,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image7.jpg",
+    "/media/image4.jpg",
+    "/media/image39.jpg"
+  ],
+  "alt_fr": "Masque en bois clair aux larges reliefs de coiffure se succédant du front vers l’arrière",
+  "alt_en": "Light wooden mask with broad hairstyle ridges running from forehead to back",
+  "description_fr": "De profil, les larges reliefs de la coiffure se succèdent du front vers l’arrière. Leurs courbes allongent la silhouette et donnent à la coiffe l’essentiel de son volume.",
+  "description_en": "In profile, the broad ridges of the hairstyle follow one another from the forehead to the back. Their curves lengthen the silhouette and give the headdress most of its volume.",
+  "material_fr": "",
+  "material_en": "",
+  "dimensions_fr": "H 23 × L 40 × l 30 × P 18 cm",
+  "dimensions_en": "H 23 × L 40 × W 30 × D 18 cm"
+}

@@ -1,0 +1,21 @@
+{
+  "title_fr": "Profil au dôme torsadé",
+  "title_en": "Profile with a Twisted Dome",
+  "category": "narrative",
+  "order": 380,
+  "price": 100000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image11.png"
+  ],
+  "alt_fr": "Sculpture polychrome de profil, haute coiffe noire torsadée",
+  "alt_en": "Polychrome sculpture in profile with a tall twisted black headdress",
+  "description_fr": "La vue de profil révèle l’ampleur du dôme qui surmonte le visage. La torsade épouse le volume de la coiffe et donne son mouvement à cette sculpture polychrome de 60 cm.",
+  "description_en": "The profile view reveals the scale of the dome crowning the face. The twist follows the volume of the headdress and gives movement to this 60 cm polychrome sculpture.",
+  "material_fr": "Bois de gmélina et peinture",
+  "material_en": "Gmelina wood and paint",
+  "dimensions_fr": "60 × 27 × 25 cm",
+  "dimensions_en": "60 × 27 × 25 cm"
+}

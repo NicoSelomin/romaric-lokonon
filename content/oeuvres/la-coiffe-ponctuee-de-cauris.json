@@ -1,0 +1,21 @@
+{
+  "title_fr": "La coiffe ponctuée de cauris",
+  "title_en": "The Cowrie-Dotted Headdress",
+  "category": "portrait",
+  "order": 250,
+  "price": 80000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image58.png"
+  ],
+  "alt_fr": "Tête sculptée de profil, coiffe couverte de petits points et traversée d’une tresse",
+  "alt_en": "Carved head in profile, headdress covered with small dots and crossed by a braid",
+  "description_fr": "De petits points sculptés couvrent la coiffe. Une tresse traverse cette surface et y inscrit une ligne plus large, lisible au milieu du relief ponctué.",
+  "description_en": "Small carved dots cover the headdress. A braid crosses this surface and draws a broader line, clearly legible amid the dotted relief.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "30 × 24 × 26 cm",
+  "dimensions_en": "30 × 24 × 26 cm"
+}

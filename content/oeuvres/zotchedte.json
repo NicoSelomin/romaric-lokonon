@@ -1,0 +1,21 @@
+{
+  "title_fr": "Zotchedte",
+  "title_en": "Zotchedte",
+  "category": "masque",
+  "order": 120,
+  "price": null,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image42.png"
+  ],
+  "alt_fr": "Tête sculptée en bois à coiffe striée surmontée de volumes arrondis et d’une pointe",
+  "alt_en": "Carved wooden head with a striated headdress topped by rounded volumes and a point",
+  "description_fr": "Au-dessus du visage, les stries de la coiffe conduisent vers une succession de volumes arrondis.\n\nUne pointe termine cette montée et donne à l’ensemble son contour vertical.",
+  "description_en": "Above the face, the striations of the headdress lead to a succession of rounded volumes.\n\nA point completes this ascent and gives the whole its vertical outline.",
+  "material_fr": "",
+  "material_en": "",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

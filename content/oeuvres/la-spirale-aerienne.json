@@ -1,0 +1,21 @@
+{
+  "title_fr": "La spirale aérienne",
+  "title_en": "The Airy Spiral",
+  "category": "portrait",
+  "order": 180,
+  "price": 250000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image1.jpg"
+  ],
+  "alt_fr": "Sculpture en bois : visage surmonté d’une coiffe en spirale ajourée torsadée",
+  "alt_en": "Wooden sculpture: a face crowned by a twisted openwork spiral headdress",
+  "description_fr": "Au-dessus du visage, une torsade prend de l’ampleur et se déploie en spirale. Le mouvement vient de la courbe elle-même, qui entraîne le regard autour de la coiffe avant de le porter vers le sommet.",
+  "description_en": "Above the face, a twist grows and unfurls into a spiral. The movement comes from the curve itself, which draws the eye around the headdress before carrying it to the top.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "50 × 28 × 29 cm",
+  "dimensions_en": "50 × 28 × 29 cm"
+}

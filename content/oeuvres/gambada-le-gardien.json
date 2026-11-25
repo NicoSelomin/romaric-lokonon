@@ -1,0 +1,22 @@
+{
+  "title_fr": "Gambada, le gardien",
+  "title_en": "Gambada, the Guardian",
+  "category": "majeure",
+  "order": 30,
+  "price": 200000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image38.jpg",
+    "/media/image49.jpg"
+  ],
+  "alt_fr": "Statue de gardien en bois à finition bleue et colorée, dressée sur une base irrégulière",
+  "alt_en": "Wooden guardian statue with a blue, coloured finish, standing on an irregular base",
+  "description_fr": "Ancré sur une base large et irrégulière, Gambada se dresse au milieu de formes qui évoquent les forces qui l’accompagnent.\n\nL’artiste donne corps à une présence invisible : celle du gardien qui veille sur la maison et la famille et maintient le lien avec les ancêtres. La figure associe protection, sagesse et justice.",
+  "description_en": "Anchored on a broad, irregular base, Gambada rises among forms that evoke the forces accompanying him.\n\nThe artist gives shape to an invisible presence: the guardian who watches over home and family and keeps the bond with the ancestors alive. The figure brings together protection, wisdom and justice.",
+  "material_fr": "Bois, finition colorée",
+  "material_en": "Wood, coloured finish",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

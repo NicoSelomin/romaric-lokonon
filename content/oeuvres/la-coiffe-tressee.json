@@ -1,0 +1,21 @@
+{
+  "title_fr": "La coiffe tressée",
+  "title_en": "The Braided Headdress",
+  "category": "portrait",
+  "order": 170,
+  "price": 60000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image29.png"
+  ],
+  "alt_fr": "Tête sculptée en bois à coiffure tressée serrée surmontée d’un élément vertical",
+  "alt_en": "Wooden head with a tight braided hairstyle topped by a vertical element",
+  "description_fr": "Le regard suit le dessin serré des tresses jusqu’à l’élément vertical qui les surmonte. Ce prolongement donne à la coiffure sa silhouette et met en valeur le travail minutieux du tressage sculpté.",
+  "description_en": "The eye follows the tight pattern of the braids up to the vertical element above them. This extension gives the hairstyle its silhouette and highlights the meticulous carved braiding.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "24 × 20 × 15 cm",
+  "dimensions_en": "24 × 20 × 15 cm"
+}

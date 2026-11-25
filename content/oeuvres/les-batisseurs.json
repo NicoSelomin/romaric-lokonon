@@ -1,0 +1,24 @@
+{
+  "title_fr": "Les bâtisseurs",
+  "title_en": "The Builders",
+  "category": "majeure",
+  "order": 40,
+  "price": 500000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image57.jpg",
+    "/media/image50.jpg",
+    "/media/image47.jpg",
+    "/media/image51.jpg"
+  ],
+  "alt_fr": "Tour de briques sculptée sur deux niveaux avec des ouvriers, au-dessus d’une tête-cimier en bois clair",
+  "alt_en": "Carved two-storey brick tower with workers, above a light wooden crest-head",
+  "description_fr": "Surmontant une tête-cimier, une tour de briques s’élève sur deux niveaux. Des ouvriers hissent un seau à la corde, malaxent le mortier et travaillent à la construction.\n\nUne scène de travail collectif où chaque geste compte, de la base jusqu’au sommet.",
+  "description_en": "Above a crest-head, a brick tower rises over two levels. Workers hoist a bucket on a rope, mix mortar and work on the building.\n\nA scene of collective labour where every gesture counts, from the base to the top.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "",
+  "dimensions_en": ""
+}

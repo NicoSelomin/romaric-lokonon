@@ -1,0 +1,23 @@
+{
+  "title_fr": "Weziza",
+  "title_en": "Weziza",
+  "category": "majeure",
+  "photos": [
+    "/media/image48.jpg",
+    "/media/image53.jpg",
+    "/media/image56.jpg"
+  ],
+  "price": 150000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "description_fr": "Un visage paisible, marqué de scarifications ancestrales, est surmonté d’une coiffe dont chaque détail témoigne du soin apporté à la parure. La coiffure évoque le rang et le goût de la beauté.\n\nÀ travers cette figure féminine, l’artiste associe la sagesse, la maternité et la dignité royale.",
+  "description_en": "A peaceful face, marked with ancestral scarifications, is crowned by a headdress whose every detail shows the care given to adornment. The hairstyle evokes rank and a taste for beauty.\n\nThrough this female figure, the artist brings together wisdom, motherhood and royal dignity.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "H 35 × l 28 × P 19 cm · longueur 41 cm",
+  "dimensions_en": "H 35 × W 28 × D 19 cm · length 41 cm",
+  "alt_fr": "Visage féminin sculpté aux scarifications, coiffe ornée de pointes et de motifs tressés",
+  "alt_en": "Carved female face with scarifications, headdress adorned with spikes and braided motifs",
+  "order": 50
+}

@@ -1,0 +1,21 @@
+{
+  "title_fr": "Portrait aux lignes sobres",
+  "title_en": "Portrait in Sober Lines",
+  "category": "portrait",
+  "order": 330,
+  "price": 50000,
+  "price_per_piece": false,
+  "sold": false,
+  "published": true,
+  "photos": [
+    "/media/image12.png"
+  ],
+  "alt_fr": "Tête sculptée en bois clair aux traits épurés et coiffe courte",
+  "alt_en": "Light wooden head with clean features and a short cap",
+  "description_fr": "La coupe courte dégage le contour de la tête et laisse le modelé du visage au premier plan. Les traits sont taillés avec retenue, ce qui donne à ce portrait son caractère sobre.",
+  "description_en": "The short cut clears the outline of the head and brings the modelling of the face to the fore. The features are carved with restraint, giving this portrait its sober character.",
+  "material_fr": "Bois de gmélina",
+  "material_en": "Gmelina wood",
+  "dimensions_fr": "24 × 20 × 16 cm",
+  "dimensions_en": "24 × 20 × 16 cm"
+}
