@@ -42,7 +42,9 @@ collections:
     slug: "{{title_fr}}"
     identifier_field: title_fr
     summary: "{{title_fr}}"
-    sortable_fields: ["order", "title_fr", "price"]
+    sortable_fields:
+      fields: ["order", "title_fr", "price"]
+      default: { field: order, direction: ascending }
     view_filters:
       - { label: Œuvres majeures, field: category, pattern: majeure }
       - { label: Portraits & coiffures, field: category, pattern: portrait }

@@ -15,7 +15,7 @@ Prérequis : Node ≥ 18 et Python 3 avec Pillow (`pip install pillow`).
 ## En ligne
 
 - Site : https://romaric-lokonon.netlify.app — administration : https://app.netlify.com/projects/romaric-lokonon
-- **Mettre à jour le site** : `PATH=$HOME/.nvm/versions/node/v22.23.2/bin:$PATH npm run deploy`. Netlify CLI 27 demande Node ≥ 22.13, alors que le Node par défaut de la machine est en 20.11.
+- **Mettre à jour le site** : Netlify reconstruit automatiquement à chaque commit sur la branche `main` de GitHub (`NicoSelomin/romaric-lokonon`), y compris ceux faits depuis /admin. Pour une modification du code : `git pull` d'abord, car l'admin ajoute des commits, puis `npm run publish`. Ne plus utiliser `netlify deploy`, qui écraserait la version construite depuis GitHub.
 - Commandes reçues : tableau de bord Netlify → Forms → `commande`. Une notification part aussi par e-mail à lokononromaric19@gmail.com.
 - La protection « connexion d'équipe » de Netlify est désactivée : le site est public.
 
